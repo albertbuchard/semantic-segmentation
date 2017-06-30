@@ -1,8 +1,6 @@
 ---
-title: "README"
-author: "Albert Buchard, Mariella Kast, Remy Joseph"
+author: "Albert Buchard, Remy Joseph"
 date: "12/22/2016"
-output: pdf_document
 ---
 # Technical report
 _Two Deep Neural Network architectures to find roads in satellite images: a comparison of Convolutional versus Fully Convulational Networks in a semantic segmentation task._
